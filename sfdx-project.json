@@ -10,9 +10,11 @@
     ],
     "namespace": "",
     "sfdcLoginUrl": "https://login.salesforce.com",
-    "sourceApiVersion": "43.0",
+    "sourceApiVersion": "44.0",
     "packageAliases": {
         "ProjectBattleStation": "0Ho6F000000XZVjSAO",
-        "ProjectBattleStation@0.1.0-1": "04t6F000003VgCCQA0"
+        "ProjectBattleStation@0.1.0-1": "04t6F000003VgCCQA0",
+        "ProjectBattleStation@0.1.0-2": "04t6F000003Vk4PQAS",
+        "ProjectBattleStation@0.1.0-3": "04t6F000003VkGsQAK"
     }
 }
