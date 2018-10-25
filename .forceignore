@@ -4,3 +4,5 @@
 
 package.xml
 AppSwitcher.appMenu
+*FieldServiceAccess*
+*SendExternalEmailAvailable*
