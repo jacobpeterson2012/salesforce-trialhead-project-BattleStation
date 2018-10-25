@@ -16,7 +16,7 @@
             </layoutItems>
             <layoutItems>
                 <behavior>Required</behavior>
-                <field>UnitCost__c</field>
+                <field>Unit_Cost__c</field>
             </layoutItems>
             <layoutItems>
                 <behavior>Readonly</behavior>

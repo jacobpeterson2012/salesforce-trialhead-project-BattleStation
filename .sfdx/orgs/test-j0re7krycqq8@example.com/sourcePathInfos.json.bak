@@ -1,0 +1,692 @@
+[
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540339940543,
+            "changeTime": 1540339940543,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540339940543,
+            "changeTime": 1540339940543,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1540422246735,
+            "changeTime": 1540422246735,
+            "contentHash": "bad3a016c41c03fd5382d92ee60ce3b79e3a0121",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/applications",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/applications",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540371611782,
+            "changeTime": 1540371611782,
+            "contentHash": "ddccaec7639195293567da36d3410283e080fb58",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/applications/Battle_Station_Construction.app-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/applications/Battle_Station_Construction.app-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 714,
+            "modifiedTime": 1540372469387,
+            "changeTime": 1540372469387,
+            "contentHash": "3e4adb344350d6db90fcb3ca42151b1049dda222",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/aura",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 64,
+            "modifiedTime": 1540339940543,
+            "changeTime": 1540339940543,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/flexipages",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/flexipages",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540371611780,
+            "changeTime": 1540371611780,
+            "contentHash": "9f3eb227d3bb26bdba6b6e2fcb37af73b252d539",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/flexipages/Battle_Station_Construction_UtilityBar.flexipage-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/flexipages/Battle_Station_Construction_UtilityBar.flexipage-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 522,
+            "modifiedTime": 1540371611780,
+            "changeTime": 1540371611780,
+            "contentHash": "f3e3475cfad57cf73d0108a4121e664ae1d6644e",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699161,
+            "changeTime": 1540374699161,
+            "contentHash": "5dff57d2e28296b019f5c7da8b373f25a4f54e7b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts/Battle_Station__c-Battle Station Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts/Battle_Station__c-Battle Station Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2779,
+            "modifiedTime": 1540375361267,
+            "changeTime": 1540375361267,
+            "contentHash": "a7bc3c2197f12ef17ab3ea711ebcd32154fa16d2",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts/Resource__c-Resource Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts/Resource__c-Resource Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2224,
+            "modifiedTime": 1540374699161,
+            "changeTime": 1540374699161,
+            "contentHash": "371e3afcfcb5741ad08ce51994f806a409dfcbd0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts/Supply__c-Supply Layout.layout-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/layouts/Supply__c-Supply Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2365,
+            "modifiedTime": 1540374699155,
+            "changeTime": 1540374699155,
+            "contentHash": "c7db4c0ffe3183c2e1ed14c1d14bd25afd1e7e72",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699140,
+            "changeTime": 1540374699140,
+            "contentHash": "04715c95efeaa7803ab5faac54d87eb671e3a6b1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699150,
+            "changeTime": 1540374699150,
+            "contentHash": "7664d5143183a12a545b1119640b2e56eb507dc0",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/Battle_Station__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/Battle_Station__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2096,
+            "modifiedTime": 1540348735053,
+            "changeTime": 1540348735053,
+            "contentHash": "7c4f486731aed662f8386b174add1685e89af5f9",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 128,
+            "modifiedTime": 1540375130666,
+            "changeTime": 1540375130666,
+            "contentHash": "c60f38387e0e24efc088276435c52caf1cd68768",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/fields/Project_Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/fields/Project_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 1102,
+            "modifiedTime": 1540375130666,
+            "changeTime": 1540375130666,
+            "contentHash": "78984b7c8f22875d1bcdc0f390a6215306b19dd4",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/fields/Weapons_Status__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/fields/Weapons_Status__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 826,
+            "modifiedTime": 1540375130667,
+            "changeTime": 1540375130667,
+            "contentHash": "0e6e6f93e88d058019a458f9256c043370856aff",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540348735054,
+            "changeTime": 1540348735054,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Battle_Station__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540348735054,
+            "changeTime": 1540348735054,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699144,
+            "changeTime": 1540374699144,
+            "contentHash": "01909726b0b25b237a3a54911e9a8fc63e92c984",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/Resource__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/Resource__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2025,
+            "modifiedTime": 1540374699141,
+            "changeTime": 1540374699141,
+            "contentHash": "8872f7d511f468f56e8913c4091155d9a061026c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699143,
+            "changeTime": 1540374699143,
+            "contentHash": "1aa50280abbadfa99ae15f3812b488d0306a896f",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields/Battle_Station__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields/Battle_Station__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 621,
+            "modifiedTime": 1540374699143,
+            "changeTime": 1540374699143,
+            "contentHash": "e3c6cd342fa9a92db4682f8095aa3c043e55eda5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields/Quantity__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 389,
+            "modifiedTime": 1540374699143,
+            "changeTime": 1540374699143,
+            "contentHash": "b5e1b2ac9fc00ab94dd6952da6e66e1ebcba3579",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields/Utilization__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/fields/Utilization__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 369,
+            "modifiedTime": 1540374699143,
+            "changeTime": 1540374699143,
+            "contentHash": "e971ba0ab711ef61487d9a3b863f8c21707a829d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540374699144,
+            "changeTime": 1540374699144,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Resource__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540374699144,
+            "changeTime": 1540374699144,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699131,
+            "changeTime": 1540374699131,
+            "contentHash": "37882cdfd6783845f2c9a8d34a89e20749d23bb8",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/Supply__c.object-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/Supply__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2020,
+            "modifiedTime": 1540374699127,
+            "changeTime": 1540374699127,
+            "contentHash": "a87e7b7e9d2682832cd08af3ea3e7fe8342a4971",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 192,
+            "modifiedTime": 1540429328549,
+            "changeTime": 1540429328549,
+            "contentHash": "ead471aae3046f524cbac4d60b06a95c813d4a23",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Battle_Station__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Battle_Station__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 619,
+            "modifiedTime": 1540374699128,
+            "changeTime": 1540374699128,
+            "contentHash": "d86c1194fa0239bdc5b8b32fc35217a964546234",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Quantity__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 424,
+            "modifiedTime": 1540374699128,
+            "changeTime": 1540374699128,
+            "contentHash": "979e3ea10037edc38fd2a27c6ba8055d630e6f12",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Total_Cost__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Total_Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 479,
+            "modifiedTime": 1540374699129,
+            "changeTime": 1540374699129,
+            "contentHash": "ff0914ec06c3e532c04175cff1b9bf8ebe73b9f3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Unit_Cost__c.field-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/fields/Unit_Cost__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 367,
+            "modifiedTime": 1540437623625,
+            "changeTime": 1540437623625,
+            "contentHash": "89e14a7fb05d9928ea668fa7b340ff1d6788b79b",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/listViews",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540374699131,
+            "changeTime": 1540374699131,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/listViews/All.listView-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/objects/Supply__c/listViews/All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1540374699131,
+            "changeTime": 1540374699131,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/profiles",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540426529399,
+            "changeTime": 1540426529399,
+            "contentHash": "dd4bc5d00d5b87ac9dcfa94ec543d354d095c25c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/profiles/Admin.profile-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/profiles/Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 19881,
+            "modifiedTime": 1540426644987,
+            "changeTime": 1540426644987,
+            "contentHash": "5222469773c2f4881db9898902bbdb0b4cf8a23d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/settings",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/settings",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 96,
+            "modifiedTime": 1540422246736,
+            "changeTime": 1540422246736,
+            "contentHash": "8c20a92704b7b49063f7fc98064e6d5d78188822",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/settings/FieldService.settings-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/settings/FieldService.settings-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 187,
+            "modifiedTime": 1540422246736,
+            "changeTime": 1540422246736,
+            "contentHash": "cdecc48d0faa0472561903d2e85d853663d6df42",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 160,
+            "modifiedTime": 1540374699165,
+            "changeTime": 1540374699165,
+            "contentHash": "2cda9947e62a7a07dba5a6a753196b6fb86a4a09",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs/Battle_Station__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs/Battle_Station__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 219,
+            "modifiedTime": 1540348735059,
+            "changeTime": 1540348735059,
+            "contentHash": "c26c231262dd4fce1295bcb822da82dd74b81260",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs/Resource__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs/Resource__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 223,
+            "modifiedTime": 1540374699165,
+            "changeTime": 1540374699165,
+            "contentHash": "6e6ce36238c68c3363a64744a7072e1a6ec83ae1",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs/Supply__c.tab-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation/force-app/main/default/tabs/Supply__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 224,
+            "modifiedTime": 1540374699163,
+            "changeTime": 1540374699163,
+            "contentHash": "b978cd4d4abcf80155d7a3ff5783c588d6fb6c97",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation",
+        {
+            "state": "n",
+            "sourcePath": "/Users/jacob.a.peterson/Documents/GIT/sf-learning/salesforce-project-BattleStation/ProjectBattleStation",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 320,
+            "modifiedTime": 1540437725555,
+            "changeTime": 1540437725555,
+            "contentHash": "dc80a4dbb45e5292a3477593a45a05962dc3b21f",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
