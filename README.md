@@ -1,7 +1,10 @@
 # SFDX  App
 https://trailhead.salesforce.com/content/learn/projects/workshop-battle-station
 
-## Dev, Build and Tests>
+Package install:
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000003WT8ZQAW
+
+## Dev, Build and Tests
 
 ## Resources
 
