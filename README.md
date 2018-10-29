@@ -2,7 +2,7 @@
 https://trailhead.salesforce.com/content/learn/projects/workshop-battle-station
 
 Package install:
-https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000003WT8ZQAW
+https://login.salesforce.com/packaging/installPackage.apexp?p0=04t6F000003WTCrQAO
 
 ## Dev, Build and Tests
 

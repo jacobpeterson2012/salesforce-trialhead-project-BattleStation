@@ -69,7 +69,8 @@
   </types>
   <types>
     <name>Report</name>
-    <members>unfiled$public/Supplies</members>
+    <members>Battle_Station_Reports</members>
+    <members>Battle_Station_Reports/Supplies</members>
   </types>
   <types>
     <name>Settings</name>
